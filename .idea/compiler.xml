@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmvc-dubbo-consumer" />
+        <module name="springmvc-dubbo-provider" />
+        <module name="springmvc-dubbox-consumer" />
+        <module name="springmvc-dubbox-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmvc-dubbo-consumer" target="1.7" />
+      <module name="springmvc-dubbo-parent" target="1.5" />
+      <module name="springmvc-dubbo-provider" target="1.7" />
+      <module name="springmvc-dubbox-consumer" target="1.7" />
+      <module name="springmvc-dubbox-provider" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

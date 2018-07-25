@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-dubbox-provider:war">
+    <output-path>$PROJECT_DIR$/springmvc-dubbox-provider/target</output-path>
+    <root id="archive" name="springmvc-dubbox-provider.war">
+      <element id="artifact" artifact-name="springmvc-dubbox-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
